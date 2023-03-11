@@ -1,0 +1,5 @@
+openai
+streamlit
+reportlab
+reportlab.pdfgen
+reportlab.lib.pagesizes
