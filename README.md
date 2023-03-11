@@ -1,7 +1,7 @@
 
 # Virtual AI Career Coach
 
-This is a Streamlit app that uses the ChatGPT API from OpenAI to generate personalized career advice for the user based on their skills, experience, career goals, etc. The user is then able to download the response and their selections as a PDF.
+The Virtual AI Career Coach is a Streamlit app that provides personalized career advice based on the user's skills, experience, education, industry, salary expectations, and career goals. Using the ChatGPT API from OpenAI, the app generates customized responses and allows users to download the advice as a PDF. The app also includes a user-friendly interface, with three different prompts tailored to specific career goals or customizable prompts. The app's intelligent responses take into account current industry trends and job market conditions, providing actionable and practical advice to help users achieve their career objectives.
 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/Virtual-AI-Career-Coach_App "Here") To View This App Online!
