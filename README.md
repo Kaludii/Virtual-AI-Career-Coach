@@ -6,7 +6,8 @@ This is a Streamlit app that uses the ChatGPT API from OpenAI to generate person
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/Virtual-AI-Career-Coach_App "Here") To View This App Online!
 
-![Image](https://github.com/Kaludii/OpenAI-Chatbot/blob/main/images/OpenAI-Chatbot.png?raw=true)
+![image](https://user-images.githubusercontent.com/63890666/224466359-9b3450c4-7128-4feb-80ef-f3fda186fda8.png)
+
 
 ## Features
 
